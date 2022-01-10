@@ -1,7 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Ola meu nome é Selthon e esse é um  blog criado com o objetivo de apresentar os conhecimentos adquiridos na aula de inteligencia artificial da universidade federal do Amapa:
 
-![Image of fast.ai logo](images/logo.png)
 
-## This is a title
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## Fast.AI
+
+aqui esta o link do principal conteudo que trabalharemos, like this [link to fast.ai](https://www.fast.ai).
